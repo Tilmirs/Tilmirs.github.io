@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size: 16px;
+}
+h1,h2,h3,h4,h5,h6,b,strong {
+	font-weight: normal;
+}
+i,em {
+	font-style: normal;
+}
+u,s,del,a {
+	text-decoration: none;
+}
+a {
+	color: #000;
+}
+input {
+	outline: none;
+	border: 1px solid #000;
+}
+img,input {
+	vertical-align: top;
+}
+
+.last {
+	margin-right: 0 !important;
+}
+.last-a {
+	margin-bottom: 0 !important;
+}
+.last-b {
+	border-bottom: none !important;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
